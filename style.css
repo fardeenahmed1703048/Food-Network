@@ -27,7 +27,7 @@ body{
     
         color: tomato;
     }
-    section
+    .flexible
     {
     
         display:flex;
@@ -53,8 +53,10 @@ body{
         border-radius: 5px;
         
         
-    
+        
+
     }
+    
     .background
     {
     
@@ -77,3 +79,46 @@ body{
         width:50%;
         
     }
+    #except
+    {
+
+        text-align: center;
+    }
+    #food
+    {
+     display: flex;
+     margin:5%;
+    
+
+    }
+    #food img
+    {
+
+        width:70%;
+       
+    
+        
+    }
+    .newfood
+    {
+        border: 5px solid silver;
+     border-radius: 10%;
+     margin: 20px;
+     margin-bottom: 5%;
+    }
+    .foot
+    {
+        background-color:black;
+        background-repeat: no-repeat;
+        width:100%;
+        padding-bottom: 5%;
+        color: white;
+
+text-align: center;
+
+    }
+    #silver
+    {
+        color: yellow;
+    }
+    
